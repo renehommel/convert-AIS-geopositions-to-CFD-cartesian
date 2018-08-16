@@ -1,1 +1,1 @@
-# convert-AIS-gero-positions-to-CFD-cartesian
+# convert-AIS-geopositions-to-CFD-cartesian
